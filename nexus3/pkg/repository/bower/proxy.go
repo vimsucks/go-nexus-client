@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/datadrivers/go-nexus-client/nexus3/pkg/client"
-	"github.com/datadrivers/go-nexus-client/nexus3/pkg/repository/common"
-	"github.com/datadrivers/go-nexus-client/nexus3/pkg/tools"
-	"github.com/datadrivers/go-nexus-client/nexus3/schema/repository"
+	"github.com/vimsucks/go-nexus-client/nexus3/pkg/client"
+	"github.com/vimsucks/go-nexus-client/nexus3/pkg/repository/common"
+	"github.com/vimsucks/go-nexus-client/nexus3/pkg/tools"
+	"github.com/vimsucks/go-nexus-client/nexus3/schema/repository"
 )
 
 const (

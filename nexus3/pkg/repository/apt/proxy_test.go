@@ -5,10 +5,10 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/datadrivers/go-nexus-client/nexus3"
-	"github.com/datadrivers/go-nexus-client/nexus3/pkg/tools"
-	"github.com/datadrivers/go-nexus-client/nexus3/schema"
-	"github.com/datadrivers/go-nexus-client/nexus3/schema/repository"
+	"github.com/vimsucks/go-nexus-client/nexus3"
+	"github.com/vimsucks/go-nexus-client/nexus3/pkg/tools"
+	"github.com/vimsucks/go-nexus-client/nexus3/schema"
+	"github.com/vimsucks/go-nexus-client/nexus3/schema/repository"
 	"github.com/stretchr/testify/assert"
 )
 

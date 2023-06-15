@@ -1,6 +1,6 @@
 # Golang Nexus Client
 
-![codeql workflow](https://github.com/datadrivers/go-nexus-client/actions/workflows/codeql-analysis.yml/badge.svg)
+![codeql workflow](https://github.com/vimsucks/go-nexus-client/actions/workflows/codeql-analysis.yml/badge.svg)
 
 ## Introduction
 
@@ -38,4 +38,4 @@ $ SKIP_AZURE_TESTS=true make test
 
 ## Author
 
-[Datadrivers GmbH](https://www.datadrivers.de)
+[Datadrivers GmbH](https://www.vimsucks.de)

@@ -1,8 +1,8 @@
 package raw
 
 import (
-	"github.com/datadrivers/go-nexus-client/nexus3/pkg/client"
-	"github.com/datadrivers/go-nexus-client/nexus3/pkg/repository/common"
+	"github.com/vimsucks/go-nexus-client/nexus3/pkg/client"
+	"github.com/vimsucks/go-nexus-client/nexus3/pkg/repository/common"
 )
 
 const (

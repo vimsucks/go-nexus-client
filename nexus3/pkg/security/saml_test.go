@@ -4,8 +4,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/datadrivers/go-nexus-client/nexus3/pkg/tools"
-	"github.com/datadrivers/go-nexus-client/nexus3/schema/security"
+	"github.com/vimsucks/go-nexus-client/nexus3/pkg/tools"
+	"github.com/vimsucks/go-nexus-client/nexus3/schema/security"
 	"github.com/stretchr/testify/assert"
 )
 

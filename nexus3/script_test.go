@@ -7,8 +7,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/datadrivers/go-nexus-client/nexus3/pkg/client"
-	"github.com/datadrivers/go-nexus-client/nexus3/schema"
+	"github.com/vimsucks/go-nexus-client/nexus3/pkg/client"
+	"github.com/vimsucks/go-nexus-client/nexus3/schema"
 	"github.com/stretchr/testify/assert"
 )
 

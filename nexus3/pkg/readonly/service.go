@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/datadrivers/go-nexus-client/nexus3/pkg/client"
-	"github.com/datadrivers/go-nexus-client/nexus3/schema/readonly"
+	"github.com/vimsucks/go-nexus-client/nexus3/pkg/client"
+	"github.com/vimsucks/go-nexus-client/nexus3/schema/readonly"
 	"net/http"
 )
 
